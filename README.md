@@ -11,4 +11,6 @@ At CloudExpo 2015, Santa Clara, CA, we talked through a few specific tactics and
   * [Elasticsearch](https://www.elastic.co/products/elasticsearch)
   * [Logstash](https://www.elastic.co/products/logstash)
   * [Kibana](https://www.elastic.co/products/kibana)
-
+* [Terraform Module Cookiecutter Template](https://github.com/DualSpark/cookiecutter-tf-module)
+  * [Terraform Modules](https://terraform.io/docs/modules/)
+  * [Cookiecutter Python Package](https://github.com/audreyr/cookiecutter)
